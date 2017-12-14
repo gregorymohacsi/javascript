@@ -1,0 +1,333 @@
+   
+Station:
+ CH9583R TT Ht: 1.4240
+   
+Measurement:
+  H:   20-24-28 V:   92-44- 9 S: 115.9559
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1
+   
+Measurement:
+  H:   17-49-10 V:   91- 8-14 S: 172.6005
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1
+   
+Measurement:
+  H:   48-48-29 V:   91-10-11 S: 167.7516
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3
+   
+Station:
+ CH9504L TT Ht: 1.4110
+   
+Measurement:
+  H:  307- 1-10 V:   90- 2-25 S: 120.6765
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1A
+   
+Measurement:
+  H:  326-49-38 V:   89- 7-51 S: 153.4059
+   Prism Constant:0.0175000000000000
+   Target height:0.7000000000000000
+   Name:CP2A
+   
+Measurement:
+  H:  351-57-33 V:   88-27-17 S: 75.3264
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3A
+   
+Measurement:
+  H:  255-17-27 V:   87-47-33 S: 141.4947
+   Prism Constant:0.0175000000000000
+   Target height:0.0000000000000000
+   Name:BS2
+   
+Measurement:
+  H:  307- 1-13 V:   90- 2-26 S: 120.6767
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1B
+   
+Measurement:
+  H:  255-17-27 V:   87-47-36 S: 141.4771
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS2B
+   
+Measurement:
+  H:  326-49-43 V:   89- 7-52 S: 153.4090
+   Prism Constant:0.0175000000000000
+   Target height:0.7000000000000000
+   Name:CP2B
+   
+Measurement:
+  H:  351-57-34 V:   88-27-17 S: 75.3262
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3B
+   
+Measurement:
+  H:  255-17-27 V:   87-47-34 S: 141.4769
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS2 C
+   
+Measurement:
+  H:  307- 1-15 V:   90- 2-26 S: 120.6772
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 C
+   
+Measurement:
+  H:  326-49-43 V:   89- 7-50 S: 153.4065
+   Prism Constant:0.0175000000000000
+   Target height:0.7000000000000000
+   Name:CP2 C
+   
+Measurement:
+  H:  351-57-35 V:   88-27-17 S: 75.3266
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3 C
+   
+Measurement:
+  H:  255-17-26 V:   87-47-35 S: 141.4769
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS2 C
+   
+Station:
+ CH9583R TT Ht: 1.4210
+   
+Measurement:
+  H:   20-24-31 V:   92-44- 5 S: 115.9544
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 A
+   
+Measurement:
+  H:   75-17-25 V:   92- 9-14 S: 141.4892
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:BS D2 A
+   
+Measurement:
+  H:   17-49-11 V:   91- 8-12 S: 172.5993
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP2 D2 A
+   
+Measurement:
+  H:   48-48-30 V:   91-10- 7 S: 167.7499
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3 D2 A
+   
+Measurement:
+  H:   75-17-25 V:   92- 9-14 S: 141.4715
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS1 D2 A
+   
+Measurement:
+  H:   75-17-25 V:   92- 9-13 S: 141.4716
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS1 D2 B
+   
+Measurement:
+  H:   20-24-30 V:   92-44- 8 S: 115.9553
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 B
+   
+Measurement:
+  H:   17-49-11 V:   91- 8-11 S: 172.6006
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP2 D2 B
+   
+Measurement:
+  H:   48-48-31 V:   91-10- 8 S: 167.7485
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3 D2 B
+   
+Measurement:
+  H:   75-17-27 V:   92- 9-13 S: 141.4711
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS1 D2 C
+   
+Measurement:
+  H:   20-24-32 V:   92-44- 5 S: 115.9559
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 C
+   
+Measurement:
+  H:   17-49-10 V:   91- 8-13 S: 172.6002
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP2 D2 C
+   
+Measurement:
+  H:   48-48-34 V:   91-10- 8 S: 167.7505
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3 D2 C
+   
+Measurement:
+  H:   75-17-29 V:   92- 9-13 S: 141.4711
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS1 D2 C1
+   
+Station:
+ CH9360R TT Ht: 1.5480
+   
+Measurement:
+  H:  177- 2-58 V:   92-14-30 S: 124.3272
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 D
+   
+Measurement:
+  H:  188-18-50 V:   89-51-44 S: 235.0917
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS2 D2 D
+   
+Measurement:
+  H:  164-36-28 V:   91-58-36 S: 70.9176
+   Prism Constant:0.0175000000000000
+   Target height:0.7000000000000000
+   Name:CP2 D2 D
+   
+Measurement:
+  H:  188-18-44 V:   89-51-39 S: 235.0915
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS2 D2 E
+   
+Measurement:
+  H:  177- 2-54 V:   92-14-30 S: 124.3264
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 E
+   
+Measurement:
+  H:  164-36-23 V:   91-58-33 S: 70.9163
+   Prism Constant:0.0175000000000000
+   Target height:0.7000000000000000
+   Name:CP2 D2 E
+   
+Measurement:
+  H:  188-18-42 V:   89-51-40 S: 235.0917
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:BS2 D2 F
+   
+Measurement:
+  H:  177- 2-54 V:   92-14-30 S: 124.3240
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 F
+   
+Measurement:
+  H:  164-36-31 V:   91-58-38 S: 70.9200
+   Prism Constant:0.0175000000000000
+   Target height:0.7000000000000000
+   Name:CP2 D2 F
+   
+Station:
+ CP2 Ht: 1.6090
+   
+Measurement:
+  H:  344-36-29 V:   88-45-37 S: 70.8914
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:9360 D2 AA
+   
+Measurement:
+  H:  197-49-11 V:   89-36-21 S: 172.5688
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:9583R D2 AA
+   
+Measurement:
+  H:  192-33-48 V:   93-19-41 S: 57.1951
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 AA
+   
+Measurement:
+  H:  146-49-35 V:   91- 9-37 S: 153.4204
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:9504L D2 AA
+   
+Measurement:
+  H:  126-15-34 V:   90-45-37 S: 91.0306
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3 D2 AA
+   
+Measurement:
+  H:  344-36-27 V:   88-45-37 S: 70.8914
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:9360R D2 AB
+   
+Measurement:
+  H:  197-49-10 V:   89-36-23 S: 172.5682
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:9583R D2 AB
+   
+Measurement:
+  H:  146-49-37 V:   91- 9-38 S: 153.4203
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:9504L D2 AB
+   
+Measurement:
+  H:  126-15-31 V:   90-45-37 S: 91.0292
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:C3 D2 AB
+   
+Measurement:
+  H:  344-36-27 V:   88-45-39 S: 70.8913
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:9360R D2 AC
+   
+Measurement:
+  H:  197-49- 4 V:   89-36-22 S: 172.5685
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:9583R D2 AC
+   
+Measurement:
+  H:  192-33-45 V:   93-19-40 S: 57.1953
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP1 D2 AC
+   
+Measurement:
+  H:  146-49-30 V:   91- 9-37 S: 153.4206
+   Prism Constant:0.0000000000000000
+   Target height:0.0000000000000000
+   Name:9504L D2 AC
+   
+Measurement:
+  H:  126-15-26 V:   90-45-38 S: 91.0301
+   Prism Constant:0.0175000000000000
+   Target height:0.4000000000000000
+   Name:CP3 D2 AC

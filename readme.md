@@ -1,3 +1,3 @@
-### JavaScript Tutorials
+## JavaScript Tutorials
 
-## Just some files to learn a little about web programming and javascript.
+### Just some files to learn a little about web programming and javascript.
