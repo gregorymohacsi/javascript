@@ -1,15 +1,28 @@
 var fs = require('fs');
-var path = require('path');
-
 
 var content = fs.readFileSync('./data/BR06\ Control_measures.rpt', 'utf-8');
 
-var newContent = content.split(' ')
+/*
+  A whole bunch of nasty looking string manipulations to put the 
+  data into a format that's better for starnet
+*/
 
-console.log(newContent)
+var newContent = content.replace(/Station:/g, '{ \'Station\':');
 
-// console.log(content.split(' '));
+newContent = newContent.replace(/Prism Constant:(\d+).(\d+)/g, '');
+newContent = newContent.replace(/Target height:(\d+).(\d+)/g, '');
+newContent = newContent.replace(/Name:*$/g, 'Name:*$ }');
+newContent = newContent.trim();
 
-// var content_parsed = JSON.parse(content)
 
-// console.log(content_parsed)
+/*
+  Write the content out to a new file
+*/
+
+fs.writeFile('./data/BR06ControlMeasuresJSONstring.txt', newContent, function (error) {
+    if (error) {
+        console.error("write error:  " + error.message);
+    } else {
+        console.log("Successful Write.");
+    }
+});
