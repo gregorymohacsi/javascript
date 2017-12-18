@@ -11,9 +11,14 @@ var newContent = content.replace(/Station:/g, '{ \'Station\':');
 
 newContent = newContent.replace(/Prism Constant:(\d+).(\d+)/g, '');
 newContent = newContent.replace(/Target height:(\d+).(\d+)/g, '');
-newContent = newContent.replace(/Name:*$/g, 'Name:*$ }');
-newContent = newContent.trim();
+newContent = newContent.replace(/(Name:\s*\w*\s*)/g,'$1}');
+newContent = newContent.replace(/(Name:\w*\s*)(\w*\s*)(\w+)/g,'$1 $2 $3}');
 
+
+// newContent = newContent.trim();
+
+// let re = new RegExp(/Name:\d*\s*\w*/g);
+// let matches = 
 
 /*
   Write the content out to a new file

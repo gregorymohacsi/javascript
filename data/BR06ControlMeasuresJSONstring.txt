@@ -1,3 +1,4 @@
+   
 { 'Station':
  CH9583R TT Ht: 1.4240
    
@@ -5,100 +6,100 @@ Measurement:
   H:   20-24-28 V:   92-44- 9 S: 115.9559
    
    
-   Name:CP1
+   Name:CP  1}
    
-Measurement:
+}Measurement:
   H:   17-49-10 V:   91- 8-14 S: 172.6005
    
    
-   Name:CP1
+   Name:CP  1}
    
-Measurement:
+}Measurement:
   H:   48-48-29 V:   91-10-11 S: 167.7516
    
    
-   Name:CP3
+   Name:CP  3}
    
-{ 'Station':
+}{ 'Station':
  CH9504L TT Ht: 1.4110
    
 Measurement:
   H:  307- 1-10 V:   90- 2-25 S: 120.6765
    
    
-   Name:CP1A
+   Name:CP1  A}
    
-Measurement:
+}Measurement:
   H:  326-49-38 V:   89- 7-51 S: 153.4059
    
    
-   Name:CP2A
+   Name:CP2  A}
    
-Measurement:
+}Measurement:
   H:  351-57-33 V:   88-27-17 S: 75.3264
    
    
-   Name:CP3A
+   Name:CP3  A}
    
-Measurement:
+}Measurement:
   H:  255-17-27 V:   87-47-33 S: 141.4947
    
    
-   Name:BS2
+   Name:BS  2}
    
-Measurement:
+}Measurement:
   H:  307- 1-13 V:   90- 2-26 S: 120.6767
    
    
-   Name:CP1B
+   Name:CP1  B}
    
-Measurement:
+}Measurement:
   H:  255-17-27 V:   87-47-36 S: 141.4771
    
    
-   Name:BS2B
+   Name:BS2  B}
    
-Measurement:
+}Measurement:
   H:  326-49-43 V:   89- 7-52 S: 153.4090
    
    
-   Name:CP2B
+   Name:CP2  B}
    
-Measurement:
+}Measurement:
   H:  351-57-34 V:   88-27-17 S: 75.3262
    
    
-   Name:CP3B
+   Name:CP3  B}
    
-Measurement:
+}Measurement:
   H:  255-17-27 V:   87-47-34 S: 141.4769
    
    
-   Name:BS2 C
+   Name:BS  2} }C
    
 Measurement:
   H:  307- 1-15 V:   90- 2-26 S: 120.6772
    
    
-   Name:CP1 C
+   Name:CP  1} }C
    
 Measurement:
   H:  326-49-43 V:   89- 7-50 S: 153.4065
    
    
-   Name:CP2 C
+   Name:CP  2} }C
    
 Measurement:
   H:  351-57-35 V:   88-27-17 S: 75.3266
    
    
-   Name:CP3 C
+   Name:CP  3} }C
    
 Measurement:
   H:  255-17-26 V:   87-47-35 S: 141.4769
    
    
-   Name:BS2 C
+   Name:BS  2} }C
    
 { 'Station':
  CH9583R TT Ht: 1.4210
@@ -107,85 +108,85 @@ Measurement:
   H:   20-24-31 V:   92-44- 5 S: 115.9544
    
    
-   Name:CP1 D2 A
+   Name:CP  1} }D2 A
    
 Measurement:
   H:   75-17-25 V:   92- 9-14 S: 141.4892
    
    
-   Name:BS D2 A
+   Name:B  S} }D2 A
    
 Measurement:
   H:   17-49-11 V:   91- 8-12 S: 172.5993
    
    
-   Name:CP2 D2 A
+   Name:CP  2} }D2 A
    
 Measurement:
   H:   48-48-30 V:   91-10- 7 S: 167.7499
    
    
-   Name:CP3 D2 A
+   Name:CP  3} }D2 A
    
 Measurement:
   H:   75-17-25 V:   92- 9-14 S: 141.4715
    
    
-   Name:BS1 D2 A
+   Name:BS  1} }D2 A
    
 Measurement:
   H:   75-17-25 V:   92- 9-13 S: 141.4716
    
    
-   Name:BS1 D2 B
+   Name:BS  1} }D2 B
    
 Measurement:
   H:   20-24-30 V:   92-44- 8 S: 115.9553
    
    
-   Name:CP1 D2 B
+   Name:CP  1} }D2 B
    
 Measurement:
   H:   17-49-11 V:   91- 8-11 S: 172.6006
    
    
-   Name:CP2 D2 B
+   Name:CP  2} }D2 B
    
 Measurement:
   H:   48-48-31 V:   91-10- 8 S: 167.7485
    
    
-   Name:CP3 D2 B
+   Name:CP  3} }D2 B
    
 Measurement:
   H:   75-17-27 V:   92- 9-13 S: 141.4711
    
    
-   Name:BS1 D2 C
+   Name:BS  1} }D2 C
    
 Measurement:
   H:   20-24-32 V:   92-44- 5 S: 115.9559
    
    
-   Name:CP1 D2 C
+   Name:CP  1} }D2 C
    
 Measurement:
   H:   17-49-10 V:   91- 8-13 S: 172.6002
    
    
-   Name:CP2 D2 C
+   Name:CP  2} }D2 C
    
 Measurement:
   H:   48-48-34 V:   91-10- 8 S: 167.7505
    
    
-   Name:CP3 D2 C
+   Name:CP  3} }D2 C
    
 Measurement:
   H:   75-17-29 V:   92- 9-13 S: 141.4711
    
    
-   Name:BS1 D2 C1
+   Name:BS  1} }D2 C1
    
 { 'Station':
  CH9360R TT Ht: 1.5480
@@ -194,55 +195,55 @@ Measurement:
   H:  177- 2-58 V:   92-14-30 S: 124.3272
    
    
-   Name:CP1 D2 D
+   Name:CP  1} }D2 D
    
 Measurement:
   H:  188-18-50 V:   89-51-44 S: 235.0917
    
    
-   Name:BS2 D2 D
+   Name:BS  2} }D2 D
    
 Measurement:
   H:  164-36-28 V:   91-58-36 S: 70.9176
    
    
-   Name:CP2 D2 D
+   Name:CP  2} }D2 D
    
 Measurement:
   H:  188-18-44 V:   89-51-39 S: 235.0915
    
    
-   Name:BS2 D2 E
+   Name:BS  2} }D2 E
    
 Measurement:
   H:  177- 2-54 V:   92-14-30 S: 124.3264
    
    
-   Name:CP1 D2 E
+   Name:CP  1} }D2 E
    
 Measurement:
   H:  164-36-23 V:   91-58-33 S: 70.9163
    
    
-   Name:CP2 D2 E
+   Name:CP  2} }D2 E
    
 Measurement:
   H:  188-18-42 V:   89-51-40 S: 235.0917
    
    
-   Name:BS2 D2 F
+   Name:BS  2} }D2 F
    
 Measurement:
   H:  177- 2-54 V:   92-14-30 S: 124.3240
    
    
-   Name:CP1 D2 F
+   Name:CP  1} }D2 F
    
 Measurement:
   H:  164-36-31 V:   91-58-38 S: 70.9200
    
    
-   Name:CP2 D2 F
+   Name:CP  2} }D2 F
    
 { 'Station':
  CP2 Ht: 1.6090
@@ -251,82 +252,82 @@ Measurement:
   H:  344-36-29 V:   88-45-37 S: 70.8914
    
    
-   Name:9360 D2 AA
+   Name:936  0} }D2 AA
    
 Measurement:
   H:  197-49-11 V:   89-36-21 S: 172.5688
    
    
-   Name:9583R D2 AA
+   Name:9583  R} }D2 AA
    
 Measurement:
   H:  192-33-48 V:   93-19-41 S: 57.1951
    
    
-   Name:CP1 D2 AA
+   Name:CP  1} }D2 AA
    
 Measurement:
   H:  146-49-35 V:   91- 9-37 S: 153.4204
    
    
-   Name:9504L D2 AA
+   Name:9504  L} }D2 AA
    
 Measurement:
   H:  126-15-34 V:   90-45-37 S: 91.0306
    
    
-   Name:CP3 D2 AA
+   Name:CP  3} }D2 AA
    
 Measurement:
   H:  344-36-27 V:   88-45-37 S: 70.8914
    
    
-   Name:9360R D2 AB
+   Name:9360  R} }D2 AB
    
 Measurement:
   H:  197-49-10 V:   89-36-23 S: 172.5682
    
    
-   Name:9583R D2 AB
+   Name:9583  R} }D2 AB
    
 Measurement:
   H:  146-49-37 V:   91- 9-38 S: 153.4203
    
    
-   Name:9504L D2 AB
+   Name:9504  L} }D2 AB
    
 Measurement:
   H:  126-15-31 V:   90-45-37 S: 91.0292
    
    
-   Name:C3 D2 AB
+   Name:C  3} }D2 AB
    
 Measurement:
   H:  344-36-27 V:   88-45-39 S: 70.8913
    
    
-   Name:9360R D2 AC
+   Name:9360  R} }D2 AC
    
 Measurement:
   H:  197-49- 4 V:   89-36-22 S: 172.5685
    
    
-   Name:9583R D2 AC
+   Name:9583  R} }D2 AC
    
 Measurement:
   H:  192-33-45 V:   93-19-40 S: 57.1953
    
    
-   Name:CP1 D2 AC
+   Name:CP  1} }D2 AC
    
 Measurement:
   H:  146-49-30 V:   91- 9-37 S: 153.4206
    
    
-   Name:9504L D2 AC
+   Name:9504  L} }D2 AC
    
 Measurement:
   H:  126-15-26 V:   90-45-38 S: 91.0301
    
    
-   Name:CP3 D2 AC
+   Name:CP  3} }D2 AC
